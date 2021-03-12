@@ -1,1 +1,1 @@
-# LDH-resources
+# Living Data Hubs Resources
