@@ -8,3 +8,4 @@ Explore our gallery of open-source visual communication and training materials a
 - [Network Training Handbook](https://civic-data-design-lab.github.io/LDH-resources/Handbook.pdf)
 - [Community Data Meeting: Part One](https://civic-data-design-lab.github.io/LDH-resources/Community%20Data%20Meeting_%20Part%20One.pdf)
 - [Template for Data Collection Evaluation](https://civic-data-design-lab.github.io/LDH-resources/Template%20for%20Data%20Collection%20Evaluation.xlsx)
+-[KPSPIN Wireframes](https://civic-data-design-lab.github.io/LDH-resources/KPSPIN-Wireframes.pdf)
